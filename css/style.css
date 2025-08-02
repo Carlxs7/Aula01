@@ -1,12 +1,12 @@
   body {
       font-family: Arial, sans-serif;
       margin: 40px;
-      background-color: #f9f9f9;
+      background-color: #549977;
       color: #333;
   }
 
   .container {
-      background: #fff;
+      background: #f3f1f1;
       padding: 30px;
       max-width: 800px;
       margin: auto;
@@ -35,8 +35,17 @@
   }
 
   .titulo {
-      color: green
+      color: rgb(3, 92, 3)
   }
-  strong {
-    color: red
+  .subtitulo {
+    color: rgb(255, 64, 64)
+  }
+  .text1 {
+    color: rgb(230, 111, 0);
+  }
+  .text2 {
+    color: rgb(1, 83, 235)
+  }
+  .text3 {
+    color: rgb(15, 2, 92);
   }
