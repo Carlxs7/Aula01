@@ -37,7 +37,6 @@
   .titulo {
       color: green
   }
-
-  .subtitulo {
-      
+  strong {
+    color: red
   }
